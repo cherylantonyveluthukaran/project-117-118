@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(255, 206, 255);
+}
+
+#score{
+    font-size:30px;
+    margin-left:70px;
+}
+#timer{
+    font-size: 30px;
+    float:right;
+    margin-right:80px;
+}
+
+#sketch{
+    color: rgb(136, 0, 255);
+}
